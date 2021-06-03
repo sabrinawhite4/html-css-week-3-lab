@@ -1,0 +1,42 @@
+.green {
+  background-color: green;
+  margin: 0 auto;
+  height: 50px;
+  width: 60px;
+  padding: 50px;
+  border: black solid 5px;
+  border-radius: 50%;
+}
+
+#another-section {
+    background-color: hotpink;
+}
+
+.content-box {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: blue dotted 10px;
+}
+
+.border-box {
+    box-sizing: border-box;
+    background-color: royalblue;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: blue dotted 10px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+}
+
+button:hover{
+    color: blue;
+    background-color: blue;
+}
